@@ -26,7 +26,7 @@ Education
 
 Work experience
 ======
-* **Amazon - Business Intelligence Engineer - [Oct 2022 - ]**
+* **Amazon - Business Analyst I - [Oct 2022 - ]**
   * Individual contributor with responsibilities such as formulating the business opportunities, extract data, solving them using ML/NLP to enhance customer buying experience.
   * Currently working on customer behavior analytics using LLMs, Prompt Engineering.
   * Tech Stack: AWS Sagemaker, Lambda, S3, EC2, Clouwatch, Redshift, Bedrock.
