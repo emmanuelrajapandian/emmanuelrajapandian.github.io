@@ -22,4 +22,6 @@ We design an automated agent to play SuperTuxKart Ice Hockey which is a game fea
 <p align="justify"> 
 Generated training dataset of over 300 episodes of agent gameplay for imitation learning, coded and trained multi-layer perceptron model using imitation learning combining Behavioural modelling and DAgger, wrote major sections of project report.</p>
 
-**Resources:** [[Technical report](https://github.com/emmanuelrajapandian/emmanuelrajapandian.github.io/blob/master/files/Project%20Report.pdf)]
+**Report:** [[Technical report](https://github.com/emmanuelrajapandian/emmanuelrajapandian.github.io/blob/master/files/Project%20Report.pdf)]
+
+**Code:** Owing to UT Austin Honor Code, the model files will not be made public.
