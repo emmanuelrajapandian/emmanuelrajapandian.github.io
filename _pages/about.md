@@ -10,8 +10,9 @@ redirect_from:
 **Bio:** I am a Business Analyst at Amazon conducting research/analyses and building models to drive ASIN Conversion through Causal AI, Machine Learning, and Statistical Modeling. Currently pursuing my Masters in DataScience from UT Austin [Expected 2024] while juggling my job. In my prior professional role, I served as a Data Scientist developing new credit underwriting by constructing predictive models utilizing XGBoost to predict the likelihood of loan delinquency for customers in specific loan portfolios in the US subprime market conditions. I helped generate 400k dollar revenue every month for the analytics project I took ownership of. Earned my bachelor's degree in EE from the Indian Institute of Information Technology, Chennai.
 
 <p align="center">
-    <img width="500" src="https://github.com/emmanuelrajapandian/emmanuelrajapandian.github.io/blob/main/images/juggling.jpeg" alt="Juggling work n Studies">
+    <img width="500" src="/images/juggling.jpeg" alt="Juggling work n Studies">
 </p>
+
 
 
 **Outside of Work:**
