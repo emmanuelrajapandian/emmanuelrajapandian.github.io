@@ -12,7 +12,7 @@ redirect_from:
 Cover Letter
 ======
 <p align="justify"> 
-I work towards enhancing ASIN conversion rates for WW Amazon Stores through Machine Learning and Generative AI such as LLMs, RAG. I have over 3+ years of dedicated experience in ML/AI, including roles as a Data Scientist and Research Analyst. Since mid 2023, I have been interested in Causal ML trying to evaluate the cause and effect of business usecases with SOTA models. I have also been exploring LLMs, using advanced prompting technqiues, setting guardrails to solve customer pain points at WW Amazon Stores. I love to solve challenges/business problems which improve the customer experience. </p>
+I work towards enhancing ASIN conversion rates for WW Amazon Stores by building ETL data pipelines and pooling the data through Machine Learning and Generative AI such as LLMs, RAGs. I have over 3+ years of dedicated experience in ML/AI, including roles as a Data Scientist and Research Analyst. Since mid 2023, I have been interested in Causal ML trying to evaluate the cause and effect of business usecases with SOTA models. I have also been exploring LLMs, using advanced prompting technqiues, guardrails to address and help solve customer pain points in WW Amazon Stores. I love to solve problems which improve the customer experience and cherish new and complex challenges. </p>
 
 <br />
 
