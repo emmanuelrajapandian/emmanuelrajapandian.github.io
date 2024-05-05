@@ -23,7 +23,7 @@ redirect_from:
 - 😎 I occasionally engage in Speedcubing, finding it to be a mental stimulant that enhances my thinking abilities and an excellent means of relaxation. Good at solving the Pyraminx (Former National Runner-up 2018)! I was once ranked 3rd in India, 10th in Asia, 32nd in the World. Owing to tighter schedules, I attend competitions rarely.
 
 <p align="center">
-    <img width="500" src="https://github.com/emmanuelrajapandian/emmanuelrajapandian.github.io/blob/main/images/record.png" alt="pyraminx ranking">
+    <img width="500" src="/images/record.png" alt="pyraminx ranking">
 </p>
 
 
