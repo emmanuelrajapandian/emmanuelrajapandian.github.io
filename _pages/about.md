@@ -29,7 +29,7 @@ redirect_from:
 
 Projects
 ------
-<i class="fas fa-link" aria-hidden="true"></i>  <a href="https://adivekar-utexas.github.io/projects/">Details and Contribution</a>
+<i class="fas fa-link" aria-hidden="true"></i>  <a href="https://emmanuelrajapandian.github.io/projects/">Details and Contribution</a>
 <ul>{% for post in site.projects reversed %}
   {% include archive-single-short-project.html %}
 {% endfor %}</ul>
