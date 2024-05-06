@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-**Bio:** 
 <p align="justify"> 
-I am a Business Analyst at Amazon conducting research/analyses and building models to drive ASIN Conversion through Causal AI, Machine Learning, and Statistical Modeling. I craft POcs that blend data pipelines, ML frameworks and business intelligence solutions to drive better customer experience at WW Amazon Stores. I am concurrently pursuing my Masters in DataScience from UT Austin [Expected 2024] studying the math and understanding the logic behind every ML algorithms and principles. I'm good at solving problems and love learning new things, especially in fast-paced environments. Right now, I'm learning/exploring about deep learning by building vision based self-driving agents for racing simulators. Also trying out different techniques/algorithms like LLMs, RAGs, and Prompt Engineering to keep myself updated in this ever growing field. In my prior professional role, I served as a Data Scientist developing new credit underwriting by constructing predictive models utilizing XGBoost to predict the likelihood of loan delinquency for customers in specific loan portfolios in the US subprime market conditions. Took ownership of an analytics project and successfully generated 400,000 dollars in revenue every month. Participated in multiple intra-organisation hackathons at ADF to build new credit models to filter out fraudulent customers and maximise the revenue earned through loan interests (Won 2/4 hackathons, and was placed 2nd in the other two; Team effort). Earned my bachelor's degree in EC from the Indian Institute of Information Technology, Chennai. </p>
+I am a Business Analyst at Amazon conducting research/analyses and building models to drive ASIN Conversion through Causal AI, Machine Learning, and Statistical Modeling. I craft POcs that blend data pipelines, ML frameworks and business intelligence solutions to drive better customer experience at WW Amazon Stores. I am concurrently pursuing my Masters in DataScience from UT Austin [Expected 2024] studying the math and understanding the logic behind every ML algorithms and principles. I'm good at solving problems and love learning new things, especially in fast-paced environments. Right now, I'm learning/exploring about deep learning by building vision based self-driving agents for racing simulators. Also trying out different techniques/algorithms like LLMs, RAGs, and Prompt Engineering to keep myself updated in this ever growing field. In my prior professional role, I served as a Data Scientist developing new credit underwriting by constructing predictive models utilizing XGBoost to predict the likelihood of loan delinquency for customers in specific loan portfolios in the US subprime market conditions. Took ownership of an analytics project and successfully generated 400,000 dollars in revenue every month. Participated in multiple intra-organisation hackathons at Applied Data Finance by building new credit models to filter out fraudulent customers and maximise the revenue earned through loan interests (Won 2/4 hackathons, and was placed 2nd in the other two; Team effort). Earned my bachelor's degree in EC from the Indian Institute of Information Technology, Chennai. </p>
 
 <p align="center">
     <img width="500" src="/images/juggling.jpeg" alt="Juggling work n Studies">
 </p>
 
 
-**Outside of Work:**
+Outside of Work
+------
 - 🔭 I’m diving deep into the latest research papers on LLMs, Causal Inference(s), Prompt-Engineering. I try to comprehend the thoughts and processes underlying the content of these papers.
 - 🌱 I apply any newly encountered tech stacks from my readings to various datasets, gearing up for future roles that leverage these technologies. 
 - 🤔 I've been exploring Causal ML and Advanced Prompt Engineering in LLMs. My intention is to apply these concepts in projects, as I believe that hands-on experience and application are more effective in enhancing understanding compared to mere reading.
@@ -35,3 +35,6 @@ Projects
   {% include archive-single-short-project.html %}
 {% endfor %}</ul>
 
+Hit me up!
+------
+If you believe my abilities could contribute to your team or organization, feel free to reach out via [email](mailto:emmanuel.rajapandian@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/emmanuel-rajapandian/)!
