@@ -14,6 +14,7 @@ I am a Business Analyst at Amazon conducting research/analyses and building mode
     <img width="500" src="/images/juggling.jpeg" alt="Juggling work n Studies">
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelrajapandian&label=Profile%20Views&color=0040d6&style=flat-square" alt="emmanuelrajapandian" /> </p>
 
 Outside of Work
 ------
