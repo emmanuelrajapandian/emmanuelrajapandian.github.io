@@ -19,10 +19,11 @@ I work towards enhancing ASIN conversion rates for WW Amazon Stores by building 
 Education
 ======
 * **M.S. in Datascience, University of Texas, Austin, 2024 December [Expected]**
-  *  Completed Coursework: [Data Exploration & Visualization, Probability and Simulation Based Inference, Data Structures & Algorithms, Foundations of Regression and Predictive Modeling, Advanced Predictive Models, Design Principles & Causal Inference, Deep Learning, Convex Optimization]
-  *  Ongoing Coursework: [CS 391L Machine Learning]
+  *  Completed Coursework: Data Exploration & Visualization (A), Probability and Simulation Based Inference (A), Data Structures & Algorithms (B+), Foundations of Regression and Predictive Modeling (A), Advanced Predictive Models (A), Design Principles & Causal Inference (B+), Deep Learning (A), Convex Optimization (B+)
+  *  Ongoing Coursework: CS 391L Machine Learning
 * **B.Tech. in Electronics and Computer Engineering, Indian Institute of Information Technology, Chennai**
-  * Relevant Coursework ("A" grades): Data Structures and Algorithms, Digital Image Processing, Data Analytics in Python, Probability Theory.
+  * Relevant Coursework ("A" grades): Data Structures and Algorithms, Digital Image/Signal Processing, Data Analytics in Python, Probability Theory, Information Theory and Coding.
+  
 
 Work experience
 ======
