@@ -12,22 +12,21 @@ redirect_from:
 Cover Letter
 ======
 <p align="justify"> 
-I work towards enhancing ASIN conversion rates for WW Amazon Stores by building ETL data pipelines and pooling the data through ML, Generative AI tech stack such as LLMs, RAGs to extract insights. I have over 3+ years of dedicated experience in ML/AI, including roles as a Data Scientist and Research Analyst. Since mid 2023, I have been interested in Causal ML trying to evaluate the cause and effect of business usecases with SOTA models. I have also been exploring LLMs, using advanced prompting technqiues, guardrails to address and help solve customer pain points in WW Amazon Stores. I love to solve problems which improve the customer experience and cherish new and complex challenges. </p>
+I work towards enhancing ASIN conversion rates for Amazon US Stores by building ETL data pipelines and pooling the data through ML, Generative AI tech stack such as LLMs, RAGs to extract insights. I have over 4+ years of dedicated experience in ML/AI, including roles as a Data Scientist and Business Intelligence Engineer/Analyst. Since mid 2023, I have been interested in Causal ML trying to evaluate the cause and effect of business usecases with SOTA models. I have also been exploring LLMs, using advanced prompting technqiues, guardrails to address and help solve customer pain points in WW Amazon Stores. I love to solve problems which improve the customer experience and cherish new and complex challenges. </p>
 
 <br />
 
 Education
 ======
-* **M.S. in Datascience, University of Texas, Austin, 2024 December [Expected]**
-  *  Completed Coursework: Data Exploration & Visualization (A), Probability and Simulation Based Inference (A), Data Structures & Algorithms (B+), Foundations of Regression and Predictive Modeling (A), Advanced Predictive Models (A), Design Principles & Causal Inference (B+), Deep Learning (A), Convex Optimization (B+)
-  *  Ongoing Coursework: CS 391L Machine Learning
-* **B.Tech. in Electronics and Computer Engineering, Indian Institute of Information Technology, Chennai**
+* **M.S. in Datascience, University of Texas, Austin, USA**
+  *  Completed Coursework: Data Exploration & Visualization (A), Probability and Simulation Based Inference (A), Data Structures & Algorithms (B+), Foundations of Regression and Predictive Modeling (A), Advanced Predictive Models (A), Design Principles & Causal Inference (B+), Deep Learning (A), Convex Optimization (B+), Machine Learning (B+), Natural Langugage Processing (A)
+* **B.Tech. in Electronics and Computer Engineering, Indian Institute of Information Technology, Chennai, India**
   * Relevant Coursework ("A" grades): Data Structures and Algorithms, Digital Image/Signal Processing, Data Analytics in Python, Probability Theory, Information Theory and Coding.
   
 
 Work experience
 ======
-* **Amazon - Business Analyst I - [Oct 2022 - ]**
+* **Amazon - Business Intelligence Engineer I - [Oct 2022 - ]**
   * Individual contributor with responsibilities such as formulating the business opportunities, extract data, solving them using ML/NLP to enhance customer buying experience.
   * Currently working on customer behavior analytics using LLMs, Prompt Engineering.
   * Tech Stack: AWS Sagemaker, Lambda, S3, EC2, Clouwatch, Redshift, Bedrock.
