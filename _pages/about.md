@@ -12,7 +12,7 @@ I am a Business Intelligence Engineer at Amazon conducting research/analyses, bu
 
 ------
 
-- I am earned my Masters in DataScience from UT Austin whilst working full-time, studying the math and understanding the logic behind every ML algorithms and principles.
+- I've earned my Masters in DataScience from UT Austin whilst working full-time, studying the math and understanding the logic behind every ML algorithms and principles.
 - I'm good at solving problems and love learning new things, especially in fast-paced environments. Right now, I'm learning/exploring about deep learning by building vision based self-driving agents for racing simulators. Also trying out different techniques/algorithms like LLMs, RAGs, and Prompt Engineering to keep myself updated in this ever growing field.
 - In my prior professional role, I served as a Data Scientist developing new credit underwriting by constructing predictive models utilizing XGBoost to predict the likelihood of loan delinquency for customers in specific loan portfolios in the US subprime market conditions.
 - Took ownership of an analytics project and successfully generated 400,000 dollars in revenue every month. Participated in multiple intra-organisation hackathons at Applied Data Finance by building new credit models to filter out fraudulent customers and maximise the revenue earned through loan interests (Won 2/4 hackathons, and was placed 2nd in the other two; Team effort).
