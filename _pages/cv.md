@@ -12,7 +12,7 @@ redirect_from:
 Cover Letter
 ======
 <p align="justify"> 
-I work towards enhancing ASIN conversion rates for Amazon US Stores by building ETL data pipelines and pooling the data through ML, Generative AI tech stack such as LLMs, RAGs to extract insights. I have over 4+ years of dedicated experience in ML/AI, including roles as a Data Scientist and Business Intelligence Engineer/Analyst. Since mid 2023, I have been interested in Causal ML trying to evaluate the cause and effect of business usecases with SOTA models. I have also been exploring LLMs, using advanced prompting technqiues, guardrails to address and help solve customer pain points in WW Amazon Stores. I love to solve problems which improve the customer experience and cherish new and complex challenges. </p>
+I work towards enhancing ASIN search impressions & conversion rates for Amazon US Stores by building ETL data pipelines and pooling the data through ML, Generative AI tech stack such as LLMs, RAGs to extract insights & build analytical solutions. I have over 4+ years of dedicated experience in ML/AI, including roles as a Data Scientist and Business Intelligence Engineer/Analyst. Since mid 2023, I have been interested in Causal ML trying to evaluate the cause and effect of business usecases with SOTA models. I have also been exploring LLMs, using advanced prompting technqiues, guardrails to address and help solve customer pain points in WW Amazon Stores. I love to solve problems which improve the customer experience and cherish new and complex challenges. </p>
 
 <br />
 
@@ -26,18 +26,24 @@ Education
 
 Work experience
 ======
-* **Amazon - Business Intelligence Engineer I - [Oct 2022 - ]**
+* **Amazon - Business Intelligence Engineer II - [Apr 2025 -]**
+  * Currently working on launching a self-service analytical platform integrating complex data sources along with natural language capabilities for any user to access data-driven insights.
+
+
+* **Amazon - Business Intelligence Engineer I - [Oct 2022 - Mar 2025]**
   * Individual contributor with responsibilities such as formulating the business opportunities, extract data, solving them using ML/NLP to enhance customer buying experience.
-  * Currently working on customer behavior analytics using LLMs, Prompt Engineering.
+  * Promoted within 2.5 years for consistent delivery of high impactful solutions in multiple programs.
   * Tech Stack: AWS Sagemaker, Lambda, S3, EC2, Clouwatch, Redshift, Bedrock.
 
 
 * **Applied Data Finance - Jr. Data Scientist; Applied R&D - [May 2021 - Sep 2022]**
-  * Led a strategic initiatives to achieve loan channel objectives, deployed ML models and rewrote Credit Underwritings.
-  * Developed impactful models utilising advanced Gradient Boosting techniques like XGBoost and LightGBM.
-  * Achieved monthly revenue of 400k dollars with a 0.15 CPFD (cost per funded dollar) for a Loan Channel.
+  * Spearheaded data-driven initiatives for a US Loan Portfolio Channel by architecting and productionizing ML-based credit UW models, driving a 20% reduction in loan delinquency through behavioral risk segmentation.
+  * Built XGBoost & LightGBM pipelines to detect defaulters in risky loan channels, achieving 0.55 on Kolmogorov–Smirnov scale. 
+  * Ensured lending regulatory compliance by performing feature engineering, model building, & explainability.
   * Co-owned a pivotal analytics project, shaping outcome decisions through leadership by actively engaging with senior management, chief analytics officer, to strategise and drive initiatives.
-  * Significantly decreased loan delinquency and boosted profits through data-driven ML models.
+  * Drove $800K in monthly profits and sustained $0.15 CPFD through CI/CD enabled model optimization.
+  * Additionally, increased profits by 15% by implementing Bayesian optimization to tune Experian & TransUnion parameters.
+  * Architected a Markov chain simulation framework of the application funnel — improving loan conversion by 5%.
   * Tech/Skill Stack: ML, PostgreSQL, Business/Predictive analytics, Risk modelling.
 
 
@@ -49,14 +55,12 @@ Work experience
 
 Skills
 ======
-* **Engineering**: ML (Classical, Boosted), NLP (BERT, T5, LLMs, RAGs), Deep Learning, A/B Testing, Causal ML.
-  * Analytics: Customer Behavior, Risk Modelling, Forecasting/Predictive, Statistical, Data visualization.
-* **Tools**:  
-  * Languages: Python (Proficient), R, PostgreSQL, SQL, C, C++.
-  * Data Science: Numpy, Pandas, PyTorch, Scikit-Learn, TensorFlow, HuggingFace Pipelines/Transformer, Jupyter Notebook.
-  * Cloud: AWS Sagemaker, Lambda, S3, EC2, ETL, Clouwatch, Redshift, Bedrock, VScode.
-* **Operating system**: MacOS, Windows, Linux.
-* **Soft Skills**: Leadership, Ownership, Business Document Writing, Public Speaking, Critical Thinking, Problem Solving.
+* **ML Techniques**: Regression, Classification, Boosted ML, Recommendation, Ranking, Causal ML.
+* **Frameworks**: PyTorch, Scikit-Learn, TensorFlow, HuggingFace Pipelines, Transformer.
+* **Cloud/Tools**: AWS (Sagemaker, Lambda, Glue, Athena, S3, Cloudwatch, Redshift, Bedrock), QuickSight, DataGrip.
+* **LLMS & AI**: Mistral, GPT-3.5, Claude, T5, BERT, LangChain, RAG, vLLM.
+* **Languages**: Python, PostgreSQL, SQL, Spark SQL, Scala, R.
+* **Soft Skills**: Ownership, Leadership, Agile Mindset, Adaptability, Communication, Business Document Writing.
 
 
 Projects
