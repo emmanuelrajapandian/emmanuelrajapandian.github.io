@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 <p align="justify"> 
-I am a Business Intelligence Engineer at Amazon conducting research/analyses, building models and identifying insights to drive ASIN Conversion through Causal AI, Machine Learning, and Statistical Modeling. I craft POCs that blend data pipelines, ML frameworks and business intelligence solutions to drive better customer experience at Amazon US Stores. </p>
+I am a Senior Business Intelligence Engineer at Amazon conducting research/analyses, building analytical products and identifying insights to drive ASIN Search & Conversion through Causal AI, Machine Learning, and Statistical Modeling. I craft POCs that blend data pipelines, ML frameworks and business intelligence solutions to drive better customer experience at Amazon US Stores. </p>
 
 ------
 
 - I've earned my Masters in DataScience from UT Austin whilst working full-time, studying the math and understanding the logic behind every ML algorithms and principle.
 - I excel at solving problems and enjoy learning new things, especially in fast-paced environments. Currently, I am learning and exploring deep learning by building vision-based self-driving agents for racing simulators. I am also experimenting with different techniques and algorithms, such as LLMs, RAGs, and prompt engineering, to stay updated in this ever-evolving field.
 - In my previous professional role, I served as a Data Scientist, developing new credit underwriting models by constructing predictive models using XGBoost to forecast the likelihood of loan delinquency for customers in specific loan portfolios under U.S. subprime market conditions.
-- Took ownership of an analytics project and successfully generated 400,000 dollars in revenue every month. Participated in multiple intra-organisation hackathons at Applied Data Finance by building new credit models to filter out fraudulent customers and maximise the revenue earned through loan interests (Won 2/4 hackathons, and was placed 2nd in the other two; Team effort).
+- Took ownership of an analytics project and generated 800,000 dollars in profit every month. Participated in multiple intra-organisation hackathons at Applied Data Finance by building new credit models to filter out fraudulent customers and maximise the revenue earned through loan interests (Won 2/4 hackathons, and was placed 2nd in the other two; Team effort).
 - Earned my Bachelor's degree in EC from the Indian Institute of Information Technology, Chennai. 
 
 <p align="center">
