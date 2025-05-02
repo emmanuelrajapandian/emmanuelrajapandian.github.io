@@ -41,7 +41,7 @@ Work experience
   * Built XGBoost & LightGBM pipelines to detect defaulters in risky loan channels, achieving 0.55 on Kolmogorov–Smirnov scale. 
   * Ensured lending regulatory compliance by performing feature engineering, model building, & explainability.
   * Co-owned a pivotal analytics project, shaping outcome decisions through leadership by actively engaging with senior management, chief analytics officer, to strategise and drive initiatives.
-  * Drove 800K dollars in monthly profits and sustained 15% CPFD through CI/CD enabled model optimization.
+  * Drove 800K dollars in monthly profits and sustained 15% Cost Per Funded Dollar through CI/CD enabled model optimization.
   * Additionally, increased profits by 15% by implementing Bayesian optimization to tune Experian & TransUnion parameters.
   * Architected a Markov chain simulation framework of the application funnel — improving loan conversion by 5%.
   * Tech/Skill Stack: ML, PostgreSQL, Business/Predictive analytics, Risk modelling.
