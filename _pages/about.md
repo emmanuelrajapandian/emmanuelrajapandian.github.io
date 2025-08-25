@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="justify"> 
-I am a Senior Business Intelligence Engineer at Amazon conducting research/analyses, building analytical products and identifying insights to drive ASIN Search & Conversion through Causal AI, Machine Learning, and Statistical Modeling. I craft POCs that blend data pipelines, ML frameworks and business intelligence solutions to drive better customer experience at Amazon US Stores. </p>
+I am a Senior Business Analyst at Amazon conducting research/analyses, building analytical products and identifying insights to drive ASIN Search & Conversion through Causal AI, Machine Learning, and Statistical Modeling. I craft POCs that blend data pipelines, ML frameworks and business intelligence solutions to drive better customer experience at Amazon US Stores. </p>
 
 ------
 
