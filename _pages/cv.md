@@ -12,7 +12,7 @@ redirect_from:
 Cover Letter
 ======
 <p align="justify"> 
-I work towards enhancing ASIN search impressions & conversion rates for Amazon US Stores by building ETL data pipelines and pooling the data through ML, Generative AI tech stack such as LLMs, RAGs to extract insights & build analytical solutions. I have over 4+ years of dedicated experience in ML/AI, including roles as a Data Scientist and Business Analyst. Since mid 2023, I have been interested in Causal ML trying to evaluate the cause and effect of business usecases with SOTA models. I have also been exploring LLMs, using advanced prompting technqiues, guardrails to address and help solve customer pain points in WW Amazon Stores. I love to solve problems which improve the customer experience and cherish new and complex challenges. </p>
+I work on solving marketplace challenges across the dynamic cities in Asia-Pacific by using causal inference, forecasting, and optimization to build models that don't just predict outcomes, but inform our actions and "change f(x)" for Uber. I love to solve problems which improve the customer experience and cherish complex challenges. </p>
 
 <br />
 
@@ -26,11 +26,15 @@ Education
 
 Work experience
 ======
-* **Amazon - Business Analyst II - [Apr 2025 -]**
-  * Currently working on launching a self-service analytical platform integrating complex data sources along with natural language capabilities for any user to access data-driven insights.
+* **Uber - Data Scientist II - [Jan 2026 - ]**
+  * Currently working on Forecasting Models, and dialing up experiments to improve riding experience.
+
+* **Amazon - Business Intelligence Engineer II - [Apr 2025 - Jan 2026]**
+  * Worked on self-service analytical platform integrating complex data sources along with natural language capabilities for any user to access data-driven insights.
+  * Acted as a technical IC leading analytical and complex challenges across search, shopping mission experience programs.
 
 
-* **Amazon - Business Analyst I - [Oct 2022 - Mar 2025]**
+* **Amazon - Business Intelligence Engineer I - [Oct 2022 - Mar 2025]**
   * Individual contributor with responsibilities such as formulating the business opportunities, extract data, solving them using ML/NLP to enhance customer buying experience.
   * Promoted within 2.5 years for consistent delivery of high impactful solutions in multiple programs.
   * Tech Stack: AWS Sagemaker, Lambda, S3, EC2, Clouwatch, Redshift, Bedrock.
